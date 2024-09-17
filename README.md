@@ -1,4 +1,4 @@
-This is an implementation of the generative section of the paper "Variational Continual Learning" (https://arxiv.org/pdf/1710.10628).
+This is an implementation for the generative section of the paper "Variational Continual Learning" (https://arxiv.org/pdf/1710.10628).
 It was produced as a part of the examination for the course "Uncertainty in Deep Learning" (University of Oxford 2024).
 A report for this code was written and is uploaded in this GIT repo.
 
