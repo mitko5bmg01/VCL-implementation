@@ -5,6 +5,6 @@ A report for this code was written and is uploaded in this GIT repo.
 A gist of the task: use a VAE consisting of task specific and shared heads to learn a range of tasks progressively, in a continual manner. 
 The given code is an application for generating MNIST digits.
 
+Let's try the latex:
 
-
-Update small.
+$\exp{\frac{1 + 2}{3}} \textbf{alo}$
